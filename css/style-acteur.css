@@ -1,0 +1,16 @@
+.left img {
+  width: 150px;
+  border-radius: 8px;
+}
+
+.custom-bg {
+  background-image: linear-gradient(
+    to right,
+    rgba(8.24%, 8.63%, 10.59%, 0.8) 150px,
+    rgba(8.24%, 8.63%, 10.59%, 0.74) 100%
+  );
+}
+
+.right {
+  color: black;
+}

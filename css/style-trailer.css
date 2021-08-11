@@ -1,0 +1,58 @@
+
+div.scrollmenu-trailer {
+    color: rgb(209, 209, 235);
+    padding: 14px;
+    text-decoration: none;
+}
+div.scrollmenu-trailer {
+    overflow: auto; 
+}
+div.scrollmenu-trailer {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 1.5rem;
+
+}
+.titre-couleur-taille-trailer {
+     color: white; 
+     font-size: 12px;
+     font-weight: bolder;
+     text-align: center;
+}   
+.date-couleur-taille-trailer {
+     color: white; 
+     font-size: 12px;
+     text-align: center;
+}
+div#background-trailer.container {
+background-image: url("https://www.themoviedb.org/t/p/w1920_and_h600_multi_faces_filter(duotone,032541,01b4e4)/uozb2VeD87YmhoUP1RrGWfzuCrr.jpg");
+background-position: center;
+background-size: cover;
+}
+a.btn.btn-outline.rounded-pill.trailer-button {
+background: linear-gradient(to right,#d5f3ed, #3feedf);
+}
+div.scrollmenu.scrollmenu-trailer.d-flex {
+background-image: url("https://www.themoviedb.org/t/p/w1920_and_h600_multi_faces_filter(duotone,032541,01b4e4)/uozb2VeD87YmhoUP1RrGWfzuCrr.jpg");
+background-position: center;
+background-size: cover;
+}
+div.container h5 {
+color: white;
+font-size: 24px;
+}
+.btn.btn-outline.rounded-pill.trailer {
+color: white;
+font-size: bolder;
+}
+a.btn.btn-outline.text-capitalize.rounded-pill.trailer {
+color: white;
+}
+div#trailer.couleurbordure {
+border: 1px solid rgb(110, 233, 182);
+}
+.background-image {
+/* background-image: url('https://www.themoviedb.org/t/p/w1920_and_h600_multi_faces_filter(duotone,032541,01b4e4)/bcT8CaBIj086WVD7K529h78eujb.jpg'); */
+background-position: center;
+background-size: cover;
+}

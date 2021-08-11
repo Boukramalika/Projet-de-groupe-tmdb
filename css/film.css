@@ -1,0 +1,110 @@
+
+/* DEBUTde style css PARTIE  FILM MALIKA*/
+div.cast {
+    background-color:white;
+    overflow: auto;
+    position: static;
+    white-space: nowrap;
+  }
+
+div.cast a {
+    display: inline-block;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+
+div.cast p {
+    font-weight: normal;
+  }
+
+div.cast h5{
+    text-align: center;  
+  }
+
+.color-white{
+    background-color: white;
+  }
+
+.backdrop{
+    background-color: white;
+    opacity: 1;
+  }
+
+div.scrollmenu-recommandation {
+    background-color:white;
+    overflow: auto;
+    position: static;
+    white-space: nowrap;
+  }
+
+div.scrollmenu-recommandation a {
+    display: inline-block;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+
+.left img {
+    width:250px;
+    border-radius: 8px;
+    margin-top: 15px;
+    margin-bottom:  15px;
+  }
+  
+.custom-bg {
+    background-image: linear-gradient(
+      to right,
+      rgba(8.24%, 8.63%, 10.59%, 0.8) 150px,
+      rgba(8.24%, 8.63%, 10.59%, 0.74) 100%
+    );
+  }
+  
+.right {
+    color: white;
+  }
+  
+.cast {
+    width: 100%;
+    overflow-x: scroll; 
+  }
+  
+.cast h2 {
+    height: 75px;
+    display: flex;
+    align-items: center;
+  }
+
+
+div.scrollmenu-video {
+  background-color:white;
+  overflow: auto;
+  position: static;
+  white-space: nowrap;
+ 
+display: flex;
+align-items: center;
+}
+
+div.scrollmenu-video a {
+  display: inline-block;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  padding:50px;
+  height: 300px;
+  text-decoration: none;
+  
+}
+iframe {
+  width: 100%;
+  height: 300px;
+}
+
+section h2{
+  text-align: center;
+}

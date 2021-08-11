@@ -1,0 +1,260 @@
+.error {
+  color: rgb(218, 126, 126);
+  font-style: italic;
+}
+.results-list img {
+  width: 100px;
+  margin-right: 8px;
+}
+.results-list p {
+  margin: 0;
+}
+.results-list .synopsis {
+  font-size: 14px;
+}
+.movie {
+  padding-bottom: 8px;
+  border-bottom:  1px solid rgb(211, 211, 211);
+}
+.page-link.current {
+  font-weight: bold;
+}
+
+.background-image {
+  /* background: linear-gradient(0deg, rgb(0 0 0 / 80%), rgb(0 0 0 / 80%)), url(../img/header.jpg); */
+  background-image: url('https://www.themoviedb.org/t/p/w1920_and_h600_multi_faces_filter(duotone,032541,01b4e4)/kSNojkWwSZWsYv0Xj1gcq88okzY.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+  nav, header {
+    background-color: rgb(0 0 0 / 80%);
+  }
+
+  .color-blue{
+    background-color: #032541;
+  }
+
+  #logo-tmdb {
+    width: 154px;
+    height: 20px;
+  }
+
+/* .capitalize {
+text-transform: capitalize;
+} */
+
+/* section.new_index {
+  background-image: linear-gradient(to right, rgba(var(--tmdbDarkBlue), 0.8) 0%, rgba(var(--tmdbDarkBlue), 0) 100%), url(/t/p/w1920_and_h600_multi_faces_filter(duotone,032541,01b4e4)/uozb2VeD87YmhoUP1RrGWfzuCrr.jpg);
+} */
+
+
+/* Test scroll menu
+} */
+
+div.scrollmenu {
+background-color: white;
+overflow: auto;
+white-space: nowrap;
+}
+
+div.scrollmenu a {
+display: inline-block;
+color: white;
+text-align: center;
+padding: 14px;
+text-decoration: none;
+}
+
+  div.scrollmenu-gratuit {
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    }
+
+  div.scrollmenu-trailer {
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    }
+
+  footer a{
+    text-decoration: none;
+    }
+
+  footer img{
+      margin: 15%;
+      }
+
+  footer{
+    background-color: #032541;
+    }
+/* fin de style css footer*/
+
+/* DEBUT de style css PARTIE TENDANCE */
+  div.scrollmenu-tendance a {
+    display: inline-block;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+/* 
+div.scrollmenu-tendance p {
+  color: gray;
+  font-weight: normal;
+} */
+  div.scrollmenu-tendance {
+    background-color: white;
+    overflow: auto;
+    white-space: nowrap;
+  }
+/* fin de STYLE CSS PARTIE TENDANCE */
+/* fin de STYLE CSS PARTIE REJOIGNEZ NOUS  */
+  .rejoignez-nous button{
+    margin-bottom:  50px;
+  }
+
+  .rejoignez-nous{
+    background-image: url('../img/rejoignez-nous-1.jpg');
+    background-position: center;
+    background-size: cover;
+    color: white;
+  
+  }
+/* fin de STYLE CSS PARTIE REJOIGNEZ NOUS  */
+
+
+/* DEBUTde style css PARTIE  FILM MALIKA*/
+  div.cast {
+    background-color:white;
+    overflow: auto;
+    position: static;
+    white-space: nowrap;
+  }
+
+  div.cast a {
+    display: inline-block;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+
+  div.cast p {
+    font-weight: normal;
+  }
+
+  div.cast h5{
+    text-align: center; 
+  }
+
+  .color-white{
+    background-color: white;
+  }
+
+  .btn.btn-color.rounded-pill{
+    background: linear-gradient(to right,#1bd2b0, #02b6e2);
+  }
+
+/* FIN de style css PARTIE  FILM MALIKA*/
+  #logo-tmdb {
+      width: 154px;
+      height: 20px;
+  }
+
+/* .capitalize {
+  text-transform: capitalize;
+  } */
+
+  /* section.new_index {
+    background-image: linear-gradient(to right, rgba(var(--tmdbDarkBlue), 0.8) 0%, rgba(var(--tmdbDarkBlue), 0) 100%), url(/t/p/w1920_and_h600_multi_faces_filter(duotone,032541,01b4e4)/uozb2VeD87YmhoUP1RrGWfzuCrr.jpg);
+} */
+
+
+/* Test scroll menu
+  } */
+  
+
+  div.scrollmenu {
+    background-color: rgb(255, 255, 255);
+    overflow: auto;
+    white-space: nowrap;
+  }
+
+  div.scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+
+
+footer a{
+  text-decoration: none;
+  
+}
+
+  div.scrollmenu-tendance  a {
+    display: inline-block;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+
+  div.scrollmenu-tendance  p {
+    color: gray;
+    font-weight: normal;
+  }
+  
+  div.scrollmenu-tendance {
+    background-color: white;
+    overflow: auto;
+    white-space: nowrap;
+  }
+
+/* FIN SCROLLMENU TENDANCE MALIKA */
+
+  footer a{
+    text-decoration: none;
+  }
+
+  footer img{
+    margin: 15%;
+  }
+
+  footer{
+    background-color: #032541;
+  }
+
+  div.container h2 {
+    color: #032541;
+  }
+
+  div.couleurbordure {
+    border: 1px solid #032541; 
+  }
+
+  .btn.btn-outline.rounded-pill{
+    color: #032541; 
+  }
+
+  .titre-couleur-taille {
+    color: #032541; 
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .date-couleur-taille {
+    color: grey; 
+    font-size: 12px;
+    text-align: center;
+  }

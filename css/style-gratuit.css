@@ -1,0 +1,29 @@
+div.scrollmenu-gratuit {
+    background-color: rgb(255, 255, 255);
+    overflow: auto;
+    white-space: nowrap;
+  }
+
+  div.scrollmenu-gratuit a {
+    display: inline-block;
+    color: gray;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+  div.scrollmenu-gratuit  p {
+    color: gray;
+    font-weight: normal;
+  }
+  .titre-couleur-taille-gratuit {
+    color: #032541; 
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .date-couleur-taille-gratuit {
+    color: grey; 
+    font-size: 12px;
+    text-align: center;
+  }
